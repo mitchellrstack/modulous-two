@@ -1,0 +1,20 @@
+{
+  "name": "modulous-two",
+  "version": "1.0.0",
+  "description": "Various solutions to isEven in JavaScript with extensive testing.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard",
+    "test": "standard && node test.js"
+  },
+  "author": "Mitchell Stack",
+  "license": "ISC",
+  "dependencies": {
+    "big-integer": "^1.6.25",
+    "is-even": "^1.0.0"
+  },
+  "devDependencies": {
+    "colors": "^1.1.2",
+    "standard": "^10.0.3"
+  }
+}
