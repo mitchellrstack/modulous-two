@@ -1,6 +1,6 @@
 {
   "name": "modulous-two",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Various solutions to isEven in JavaScript with extensive testing.",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "colors": "^1.1.2",
     "standard": "^10.0.3"
   },
-  "repository" : {
+  "repository": {
     "type": "git",
     "url": "https://github.com/mitchellrstack/modulous-two.git"
   }
