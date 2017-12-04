@@ -7,8 +7,8 @@
     "lint": "standard",
     "test": "standard && node test.js"
   },
-  "author": "Mitchell Stack",
-  "license": "ISC",
+  "author": "Mitchell Stack <mitchellrstack@gmail.com> (https://www.mitchellrstack.com)",
+  "license": "MIT",
   "dependencies": {
     "big-integer": "^1.6.25",
     "is-even": "^1.0.0"
