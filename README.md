@@ -32,7 +32,7 @@ I got motivation to do this quick project because of all of the solutions that [
 I wanted to go a bit further than the traditional format:
 ```JavaScript
 // traditional.js
-function isEven(number) {
+function isEven (number) {
   return number % 2 === 0
 }
 ```
