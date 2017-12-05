@@ -39,6 +39,7 @@ function isEven(number) {
 
 I have tested the fastest, as well as the most accurate solutions to the problem. The fastest solution is what I call 'simple' and it looks like this:
 ```JavaScript
+// simple.js
 const isEven = n => !(~~n & 1)
 ```
 This solution, however, is only accurate with numbers and fails all edges cases that were defined
@@ -70,6 +71,10 @@ console.log(isEven(2)) // true
 console.log(isEven(3)) // false
 ```
 
+## Test Results
+
+TODO
+
 ## Contributing
 
 ```
@@ -87,9 +92,8 @@ See the list of [contributors](https://github.com/your/project/contributors) who
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## TODO
+## To do
 
-* Publish to yarn?
 * Create contributing.md to allow others to submit their solutions
 * Lint, clean up, and improve all current solutions
 * Add results of tests to README or maybe RESULTS.md
@@ -100,4 +104,4 @@ In the future, I plan on maybe creating these solutions in different languages o
 
 ## Acknowledgments
 
-* Thanks to the [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/) for the fun idea!
+* Thanks to [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/) for the fun idea!
