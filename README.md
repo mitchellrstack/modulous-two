@@ -27,7 +27,7 @@ const test2 = isEven(3) // false
 
 ### Motivation
 
-I got motivation to do this quick project because of all of the solutions that [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/) had for determining if a number is even or odd. So I came up with as many solutions as I could to try to find the fastest possible solution to this problem in JavaScript. Test results are posted below for those interested in the numbers behind each test and which modules performed best. I tried a few other solutions that didn't make it here like neural network training, [referring to stackoverflow](https://www.reddit.com/r/ProgrammerHumor/comments/7bo2du/if_you_arent_sure_whats_even_refer_to/?ref=share&ref_source=link), and other npm modules.
+I got motivation to do this quick project because of all of the solutions that [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/) had for determining if a number is even or odd. So I came up with as many solutions as I could to try to find the fastest possible solution to this problem in JavaScript. Test results are posted below for those interested in the numbers behind each test and which modules performed best. I tried a few other solutions that didn't make it here like neural network training, [referring to stackoverflow](https://www.reddit.com/r/ProgrammerHumor/comments/7bo2du/if_you_arent_sure_whats_even_refer_to/?ref=share&ref_source=link), and other npm modules. I also started this repo for practice with git, github, and NPM publishing.
 
 I wanted to go a bit further than the traditional format:
 ```JavaScript
@@ -71,6 +71,10 @@ console.log(isEven(2)) // true
 console.log(isEven(3)) // false
 ```
 
+## Testing
+
+TODO
+
 ## Test Results
 
 TODO
@@ -96,6 +100,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Create contributing.md to allow others to submit their solutions
 * Lint, clean up, and improve all current solutions
+* Create better testing
 * Add results of tests to README or maybe RESULTS.md
 
 ## Future

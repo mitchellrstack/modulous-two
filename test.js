@@ -8,6 +8,8 @@ const NS_PER_SEC = 1e9
 const TEST_COUNT = 1e4
 const TEST_NUM_RANGE = 1e6
 const EDGE_CASES = true
+const TEST_TIME = 2 // seconds
+// See how many tests can run in TEST_TIME
 
 // For storing tests to be done by each module. Generated beforehand for fair testing
 let pendingTests = []
